@@ -7,10 +7,7 @@ target/
 .classpath
  
 # idea ignore
-.idea/
-*.ipr
-*.iml
-*.iws
+/.idea/
  
 # temp ignore
 *.log
